@@ -5,6 +5,8 @@ description: History of Media and Technology course recruitment poster. (Image b
 file: /courses/cms-876-history-of-media-and-technology-spring-2005/2877bbb92b6b1c6b4b2afe6747dd7dc5_chp_eternal_war.jpg
 file_size: 66110
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: The reading section contains table listing readings according to sessions.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Readings
@@ -89,11 +91,11 @@ Fictions of War, Philosophy of War, History of War
 {{< tdopen >}}
 
 
-Orwell, George. {{% resource_link "1ca1b134-3d21-4358-b871-ecdd0d9ee6b4" "_1984_" %}}. Book One. New York, NY: Signet Classic, pp. 1-104. ISBN: 9780451524935. (Required Book)
+Orwell, George. [_1984_](http://www.online-literature.com/orwell/1984/). Book One. New York, NY: Signet Classic, pp. 1-104. ISBN: 9780451524935. (Required Book)
 
-Tzu, Sun. {{% resource_link "85543727-501d-4dfe-b5e0-6259a2fb39e0" "_Art of War_" %}}. Translated by Lionel Giles. Sections I-VIII, The Internet Classics Archive.
+Tzu, Sun. [_Art of War_](http://classics.mit.edu//Tzu/artwar.html). Translated by Lionel Giles. Sections I-VIII, The Internet Classics Archive.
 
-Thucydides. "Outbreak of War." In {{% resource_link "3ab0fc4a-50e2-4a44-9bba-7236ea3ae59a" "_History of the Peloponnesian War_" %}}. Penguin Classics. Book II, pp. 124-193.
+Thucydides. "Outbreak of War." In [_History of the Peloponnesian War_](http://classics.mit.edu/Thucydides/pelopwar.html). Penguin Classics. Book II, pp. 124-193.
 
 Van Creveld, Martin. _Technology and War: From 2000 B.C. to the Present_. New York, NY: Free Press, 1989, Chapters 1-3 (pp. 9-50), chapter 5 (pp. 67-78). ISBN: 9780029331514.
 
@@ -321,7 +323,7 @@ Patriot Act (Web)
 
 War Against Terror (Web)
 
-"{{% resource_link "a7b5da16-7e95-4401-a025-bda50f160997" "Author Dilip Hiro On Operation Iraqi Freedom and the Collapse of American Power in the Middle East" %}}." _Democracy Now_. Thursday, February 12, 2004.
+"[Author Dilip Hiro On Operation Iraqi Freedom and the Collapse of American Power in the Middle East](https://www.democracynow.org/shows/2004/2/12)." _Democracy Now_. Thursday, February 12, 2004.
 
 
 {{< tdclose >}}
@@ -521,7 +523,7 @@ Hiro, Dilip. _War Without End:_ _The Rise of Islamist Terrorism and the Global R
 
 "Islamist Terrorism and Global Response." pp. 267-434.
 
-Agamben, Giorgio. "{{% resource_link "2c7d06ee-33ce-4c91-b441-0ff94d8840d0" "We Refugees" %}}."
+Agamben, Giorgio. "[We Refugees](http://www.faculty.umb.edu/gary_zabel/Courses/Phil%20108-08/We%20Refugees%20-%20Giorgio%20Agamben%20-%201994.htm)."
 
 Black, Edwin. _Banking on Baghdad: Inside Iraq's 7,000-Year History of War, Profit, and Conflict_. New York, NY: John Wiley & Sons, 2004, chapters 13-17, pp. 211-352. ISBN: 9780471671862.
 

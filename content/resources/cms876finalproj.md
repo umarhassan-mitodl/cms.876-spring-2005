@@ -5,6 +5,8 @@ description: This file asks students to prepare 20-25 page research paper or med
 file: /courses/cms-876-history-of-media-and-technology-spring-2005/b34c7c5bd5bac8b629602e8f5fc1c80c_cms876finalproj.pdf
 file_size: 32800
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

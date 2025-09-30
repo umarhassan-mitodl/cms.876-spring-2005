@@ -4,9 +4,11 @@ description: New image Upload
 file: /courses/cms-876-history-of-media-and-technology-spring-2005/9f5503c344db5b4f5533009552a43aa7_cms-876s05-th.jpg
 file_size: 5777
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
-  caption: A US World War II propaganda poster. (Courtesy of {{% resource_link "8a878088-a780-4975-a28c-cb068f038a14"
-    "Wikimedia Commons" %}}, image by US Office of War Information.)
+  caption: A US World War II propaganda poster. (Courtesy of [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page),
+    image by US Office of War Information.)
   credit: ''
   image-alt: A US World War II propaganda poster showing a Nazi/Japanese monster destroying
     the Statue of Liberty.

@@ -6,6 +6,8 @@ description: 'This file asks students to prepare on media analysis: battle of Al
 file: /courses/cms-876-history-of-media-and-technology-spring-2005/e8c24017f0b6455c3c5735d059381c7e_cms876assign_4.pdf
 file_size: 10879
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

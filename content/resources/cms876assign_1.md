@@ -5,6 +5,8 @@ description: This file asks students to prepare on information warfare by utiliz
 file: /courses/cms-876-history-of-media-and-technology-spring-2005/fc4e2c1afd47d225c93219aeec4af15d_cms876assign_1.pdf
 file_size: 37150
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

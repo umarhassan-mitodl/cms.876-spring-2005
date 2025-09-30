@@ -5,6 +5,8 @@ description: This file asks students to prepare an answer on code as weapon by a
 file: /courses/cms-876-history-of-media-and-technology-spring-2005/d7ec098657ebfc6dd26c60a562d6d0da_cms876assign_3.pdf
 file_size: 65544
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

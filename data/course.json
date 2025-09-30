@@ -27,6 +27,7 @@
     "website": "cms-876-history-of-media-and-technology-spring-2005"
   },
   "course_title": "History of Media and Technology",
+  "hide_download": true,
   "course_description": "History of Media and Technology addresses the mutually influential histories of communications media and technological development, focusing on the shift from analog to digital cultures that began mid-century and continues to the present. The approach the series takes to the study of media and technology is a multifaceted one that includes theoretical and philosophical works, histories canonical and minority, literature and art, as well as hands-on production issues toward the advancement of student projects and research papers. The topic for this term is Eternal War.\n",
   "department_numbers": [
     "CMS-W"
@@ -37,6 +38,7 @@
     "content": "9f5503c3-44db-5b4f-5533-009552a43aa7",
     "website": "cms-876-history-of-media-and-technology-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],

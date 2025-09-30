@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus section contains course description, required text, course
   requirements, grading table and structure of each class.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Syllabus
@@ -25,7 +27,7 @@ Eternal War asks whether war has historically been a progressive factor in relat
 Required Texts
 --------------
 
-Orwell, George. {{% resource_link "e023e04a-618d-4b95-b687-c27f011ae07b" "_1984_" %}}. New York, NY: Signet classics. Reissue edition, May 1, 1961. ISBN: 9780451524935.
+Orwell, George. [_1984_](http://www.online-literature.com/orwell/1984). New York, NY: Signet classics. Reissue edition, May 1, 1961. ISBN: 9780451524935.
 
 Manuel, DeLanda. _War in the Age of Intelligent Machines_. New York, NY: Zone Books, December 26, 1991. ISBN: 9780942299755.
 
